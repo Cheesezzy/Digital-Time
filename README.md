@@ -1,2 +1,2 @@
-# Digital-Time
-Created with CodeSandbox
+# Digital-Clock
+Created with React using react Hooks
